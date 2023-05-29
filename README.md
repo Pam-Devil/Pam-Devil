@@ -7,21 +7,13 @@
 
 - 🌱 I’m currently learning **Svelte, Rust/Zig, Functional Programming**
 
-- 👯 I’m looking to collaborate on **nothing yet**
-
-- 🤝 I’m looking for help with **Pokehoes**
-
-- 👨‍💻 All of my projects are available at [---](---)
-
-- 📝 I regularly write articles on [---](---)
-
-- 💬 Ask me about **Svelte,**
+- 💬 Ask me about **Typescript, Discordjs, Godot**
 
 - 📫 How to reach me **pamdevilcs@gmail.com**
 
 - 📄 Know about my experiences [---](---)
 
-- ⚡ Fun fact **Even tho i got some malfunctioning on both hands fingers i can still type up to 100 wpm**
+- ⚡ Fun fact **Even tho i got some malfunctioning fingers in both hands i can still type up to 100 wpm**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

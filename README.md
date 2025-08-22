@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **InscryptionBook**
 
-- 🌱 I’m currently learning **Svelte, Rust/Zig, Functional Programming**
+- 🌱 I’m currently learning **Elixir, Zig**
 
-- 💬 Ask me about **Typescript, Discordjs, Godot**
+- 💬 Ask me about **Data Oriented Design, Elixir, Machine Learning**
 
 - 📫 How to reach me **pamdevilcs@gmail.com**
 

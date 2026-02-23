@@ -1,13 +1,13 @@
 ![keyboard](https://github.com/Pam-Devil/Pam-Devil/blob/e306281e06b022e21256f38a11a0cd5cfa2d0395/assets/images/download.png)
 
 <h1 align="center">Hi 👋, I'm PamDevil</h1>
-<h3 align="center">A passionate Fullstack Developer from Brazil</h3>
+<h3 align="center">A passionate and curious Developer from Brazil</h3>
 
 - 🔭 I’m currently working on **InscryptionBook**
 
-- 🌱 I’m currently learning **Elixir, Zig**
+- 🌱 I’m currently learning **Elixir, Zig, even more Typescript ¬¬**
 
-- 💬 Ask me about **Data Oriented Design, Elixir, Machine Learning**
+- 💬 Ask me about **Data Oriented Design, Functional Programming, LLMs, Machine Learning**
 
 - 📫 How to reach me **pamdevilcs@gmail.com**
 

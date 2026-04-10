@@ -1,14 +1,14 @@
-<div align="center">![Key](https://i.pinimg.com/originals/d9/b5/93/d9b5931336ebfbe565ea935354855232.gif)</div>
+![Key](https://i.pinimg.com/originals/d9/b5/93/d9b5931336ebfbe565ea935354855232.gif)
 
 
 <h1 align="center">Hi 👋, I'm PamDevil</h1>
 <h3 align="center">A passionate and curious Developer from Brazil</h3>
 
-- 🔭 I’m currently working on **InscryptionBook**
+- 🔭 I’m currently taking my Computer Science major at [UVV](https://uvv.br/) and undergoing [Havard's CS50](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 
-- 🌱 I’m currently learning **Elixir, Zig, even more Typescript ¬¬**
+- 🌱 I’m currently learning by myself: **Elixir, Zig, even more Typescript**
 
-- 💬 Ask me about **Data Oriented Design, Functional Programming, LLMs, Machine Learning**
+- 💬 Ask me about **Data Oriented Design, Functional Programming, Diffusion Models and Stable Diffusion in general.**
 
 - 📫 How to reach me **pamdevilcs@gmail.com**
 

@@ -1,4 +1,5 @@
-![Key](https://i.pinimg.com/originals/d9/b5/93/d9b5931336ebfbe565ea935354855232.gif)
+<div align="center">![Key](https://i.pinimg.com/originals/d9/b5/93/d9b5931336ebfbe565ea935354855232.gif)</div>
+
 
 <h1 align="center">Hi 👋, I'm PamDevil</h1>
 <h3 align="center">A passionate and curious Developer from Brazil</h3>
